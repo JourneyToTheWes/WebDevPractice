@@ -1,0 +1,15 @@
+{
+  "name": "node-weather",
+  "version": "1.0.0",
+  "description": "weather app using node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wesley Wei <weswei@uw.edu>",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.85.0",
+    "yargs": "^11.0.0"
+  }
+}
